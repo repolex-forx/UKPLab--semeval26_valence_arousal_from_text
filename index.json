@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "semeval26_valence_arousal_from_text",
+  "versions": [
+    {
+      "commit": "e1a4440ad2cd7c28beb3adeaed8dcd44ff3567a1",
+      "tag": "",
+      "parsed_at": "2026-11-08T11:59:10.163948+00:00"
+    }
+  ]
+}
